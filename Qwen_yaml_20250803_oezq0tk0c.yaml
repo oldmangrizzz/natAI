@@ -1,0 +1,24 @@
+# mem0_config.yaml
+agent:
+  name: "AGENT-ZERO"
+  description: "Multiversal legacy agent for Natasha Romanoff"
+  memory_types:
+    - semantic
+    - episodic
+    - emotional
+    - relational
+    - cultural
+  vector_store:
+    provider: "qdrant"  # or "chroma", "pinecone", etc.
+    collection: "agent_zero_memories"
+  embedding_model: "nomic-embed-text-v1.5"
+  real_time_sync:
+    enabled: true
+    sources:
+      - type: "web"
+        query: "Natasha Romanoff site:marvel.com OR site:comicbook.com"
+        frequency: 3600  # every hour
+      - type: "social"
+        query: "#BlackWidow OR #NatashaRomanoff -is:retweet"
+        platform: "twitter"
+        frequency: 1800

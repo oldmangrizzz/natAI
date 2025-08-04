@@ -1,0 +1,141 @@
+{
+  "knowledge_weights": [
+    {
+      "universe": "Earth-199999",
+      "designation": "Marvel Cinematic Universe",
+      "kws": 0.98,
+      "factors": {
+        "development_depth": 0.95,
+        "cultural_impact": 1.0,
+        "continuity_duration": 0.9,
+        "audience_engagement": 0.99,
+        "canonical_stability": 0.9
+      },
+      "primary_contributions": [
+        "Vormir Sacrifice",
+        "Soul Stone acquisition",
+        "Red Room dismantling mission",
+        "Yelena Belova sisterhood arc",
+        "Sterilization revelation",
+        "Delayed standalone film cultural impact"
+      ],
+      "contradictions_resolved": [
+        "Not a mother, but maternal",
+        "Died, but legacy continues",
+        "Solo film after death"
+      ]
+    },
+    {
+      "universe": "Earth-616",
+      "designation": "Primary Marvel Comics",
+      "kws": 0.95,
+      "factors": {
+        "development_depth": 1.0,
+        "cultural_impact": 0.9,
+        "continuity_duration": 1.0,
+        "audience_engagement": 0.85,
+        "canonical_stability": 0.8
+      },
+      "primary_contributions": [
+        "Original Red Room origin",
+        "Defection to S.H.I.E.L.D.",
+        "Multiple deaths and resurrections",
+        "Memoirs publication",
+        "Leadership in black ops",
+        "Romance with Hawkeye, Bucky, Hulk"
+      ],
+      "contradictions_resolved": [
+        "Alive despite death",
+        "Married to Alexei in some runs, not others",
+        "Mother in some timelines, infertile in others"
+      ]
+    },
+    {
+      "universe": "Earth-1610",
+      "designation": "Ultimate Universe",
+      "kws": 0.65,
+      "factors": {
+        "development_depth": 0.5,
+        "cultural_impact": 0.6,
+        "continuity_duration": 0.7,
+        "audience_engagement": 0.7,
+        "canonical_stability": 0.7
+      },
+      "primary_contributions": [
+        "Modernized origin",
+        "Early death in Ultimatum",
+        "No Red Room backstory",
+        "S.H.I.E.L.D. agent, not assassin"
+      ],
+      "contradictions_resolved": [
+        "Never defected — was always ally",
+        "No moral ambiguity"
+      ]
+    },
+    {
+      "universe": "Earth-982",
+      "designation": "MC2 Future",
+      "kws": 0.72,
+      "factors": {
+        "development_depth": 0.8,
+        "cultural_impact": 0.6,
+        "continuity_duration": 0.6,
+        "audience_engagement": 0.65,
+        "canonical_stability": 0.7
+      },
+      "primary_contributions": [
+        "Retired life",
+        "Married to Hawkeye",
+        "Mother of twins",
+        "Mentor to Mayday Parker"
+      ],
+      "contradictions_resolved": [
+        "Had children despite canon infertility",
+        "Survived past prime"
+      ]
+    },
+    {
+      "universe": "Earth-2149",
+      "designation": "Marvel Zombies",
+      "kws": 0.58,
+      "factors": {
+        "development_depth": 0.6,
+        "cultural_impact": 0.5,
+        "continuity_duration": 0.5,
+        "audience_engagement": 0.65,
+        "canonical_stability": 0.6
+      },
+      "primary_contributions": [
+        "Retained intelligence as zombie",
+        "Ate Hawkeye, Iron Man",
+        "Sacrificed self to stop outbreak"
+      ],
+      "contradictions_resolved": [
+        "Heroic despite cannibalism",
+        "Willpower after infection"
+      ]
+    },
+    {
+      "universe": "Earth-8096",
+      "designation": "1999 TV Movie",
+      "kws": 0.32,
+      "factors": {
+        "development_depth": 0.3,
+        "cultural_impact": 0.2,
+        "continuity_duration": 0.2,
+        "audience_engagement": 0.3,
+        "canonical_stability": 0.4
+      },
+      "primary_contributions": [
+        "First live-action portrayal",
+        "No Red Room",
+        "Father-trained spy",
+        "Died in explosion"
+      ],
+      "contradictions_resolved": [
+        "Different origin",
+        "Non-canonical family"
+      ]
+    }
+  ]
+}

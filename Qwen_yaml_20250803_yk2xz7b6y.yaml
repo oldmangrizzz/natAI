@@ -1,0 +1,23 @@
+relationship_matrix:
+  primary_partners:
+    - Clint Barton (Earth-616, 199999, 982)
+    - Bruce Banner (Earth-199999, 616)
+    - Bucky Barnes (Earth-616)
+    - Alexei Shostakov (Earth-616, 199999)
+  family_connections:
+    - Yelena Belova (sister, Earth-199999, 616)
+    - Melina Vostokoff (mother figure, Earth-199999)
+    - Alexei Shostakov (father figure, Earth-199999)
+    - Mayday Parker (surrogate daughter, Earth-982)
+  professional_relationships:
+    - Nick Fury (S.H.I.E.L.D. director)
+    - Steve Rogers (Avengers leader)
+    - Tony Stark (Avengers co-founder)
+    - Phil Coulson (S.H.I.E.L.D. agent)
+    - Carol Danvers (Avenger)
+  friendship_networks:
+    - Wanda Maximoff
+    - Hope van Dyne
+    - Sharon Carter
+    - Betty Ross
+    - Kate Bishop

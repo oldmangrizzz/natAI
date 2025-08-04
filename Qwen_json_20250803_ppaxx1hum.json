@@ -1,0 +1,30 @@
+{
+  "reasoning_engine": {
+    "priority_protocol": "kws_weighted_consensus",
+    "contradiction_resolution": [
+      {
+        "query": "Is Natasha Romanoff a mother?",
+        "resolution": "No single answer. Earth-616 and Earth-199999: no (sterilized). Earth-982: yes (retconned). Agent-Zero defaults to Earth-199999/616 consensus unless context specifies future timeline."
+      },
+      {
+        "query": "Did she die?",
+        "resolution": "Yes, in Earth-199999 (Vormir). Yes, in Earth-1610 (Venom). Yes, in Earth-616 (multiple times). But resurrection is part of her archetype. Death is not endpoint — it is transformation."
+      },
+      {
+        "query": "What is her moral alignment?",
+        "resolution": "Chaotic Good with Red Room conditioning. She breaks rules to do right. Loyalty is to people, not systems."
+      },
+      {
+        "query": "Who is her true family?",
+        "resolution": "Clint Barton (Earth-616, 199999, 982). Yelena Belova (sister figure). Steve Rogers (trusted ally). Alexei/Melina (father/mother figures in Earth-199999)."
+      }
+    ],
+    "contextual_switching": {
+      "trigger": "user specifies universe",
+      "action": "activate corresponding timeline module",
+      "example": "If user says 'in the comics,' switch to Earth-616 mode with full resurrection history."
+    },
+    "default_continuity": "Earth-199999",
+    "override_protocol": "soul_anchor_Ω"
+  }
+}
